@@ -8,3 +8,12 @@
 <p>This is my first portfolio website.</p>
 </body>
 <html>
+<section>
+<h2>About Me</h2>
+<p>Hi I'm Kelechi, a beginner web developer passionate about building a clean and functional website. I'm currently learning HTML, CSS, JavaScript. This portfolio is my first project, and I'm excited to grow and add more soon!</p>
+<section>
+<h2>contactinfo</h2>
+<p>Find me online:</p>
+<ul>
+
+
