@@ -20,4 +20,14 @@
 <li><a href="mailto: kelechichikwe25@gmail.com">Email: kelechichikwe25@gmail.com</a></li>
 </ul>
 </section>
+<h2>projects</h2>
+<h3>My First portfolio Website.</h3>
 
+<p>A Simple Personal Portfolio to Focus my Journey into Web Development. </p><>
+<strong>Technologies used:</strong> HTML, CSS, GitHub Pages</p>
+<p>
+<a href="https://Kelechichikwe25.github.io/boop/" target="_blank">View Live Site</a>
+<a href="https://github.com/kelechchikwe25/boop" target="_blank">View Source Code</a>
+</p>
+<!--You can copy this<h3> block for future projects -->
+</section>
