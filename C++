@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace syd;
+int main () {
+cout<< "Hello World!";
+return 0;
+}
